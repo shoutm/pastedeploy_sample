@@ -11,5 +11,6 @@ This needs these python packages installed.
 * PasteDeploy
 
 == How to run
-$ chmod +x server.py
-$ ./server.py
+
+  $ chmod +x server.py
+  $ ./server.py

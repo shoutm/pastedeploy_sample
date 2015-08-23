@@ -1,0 +1,15 @@
+= PasteDeploy Sample
+
+== About this
+This is for understanding the functions of PasteDeploy.
+See http://pythonpaste.org/deploy/
+
+== Prerequisites
+This needs these python packages installed.
+
+* Paste
+* PasteDeploy
+
+== How to run
+$ chmod +x server.py
+$ ./server.py
